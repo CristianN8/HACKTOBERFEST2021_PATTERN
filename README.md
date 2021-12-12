@@ -5,7 +5,7 @@
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/aritraroy24/HACKTOBERFEST2021_PATTERN?logo=github&style=social)](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN)
 [![GitHub issues](https://img.shields.io/github/issues/aritraroy24/HACKTOBERFEST2021_PATTERN?logo=github)](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/issues)
 [![GitHub stars](https://img.shields.io/github/stars/aritraroy24/HACKTOBERFEST2021_PATTERN?style=social)](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/stargazers)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faritraroy24%2FHACKTOBERFEST2021_2021&count_bg=%23DD8524&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN) 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faritraroy24%2FHACKTOBERFEST2021_2021&count_bg=%23DD8524&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN)
 [![GitHub forks](https://img.shields.io/github/forks/aritraroy24/HACKTOBERFEST2021_PATTERN?style=social&logo=git)](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/network/)
 ![Author](https://img.shields.io/badge/Owner-aritraroy24-orange)
 ![License](https://img.shields.io/badge/License-MIT-brightgreen)
@@ -17,16 +17,6 @@
 </h2>
 </br>
 
-
-🎯 If you are a beginner, and looking for your first contribution, we are here to help. Just create a simple designing pattern using any language you like in our [Patterns](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/tree/master/Patterns) folder which will be counted as your first PR. 🎯 </br>
-## Just 7 simple steps to earn your t-shirt for Hacktoberfest 2021 🧑🏻‍🤝‍🧑🏻
-1. 🎯Open the [Patterns](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/tree/master/Patterns) folder in your code editor of your choice. </br>
-2. 🎯Make any design pattern you like using any programming language. </br>
-3. 🎯Save your changes and give its name by your github username.</br>
-4. 🎯Upload the screenshot of your pattern in [Pattern_ScreenShots](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/tree/master/Pattern_ScreenShots) folder and give its name by your github username.</br>
-5. 🎯Upload your photo in [Photos](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/tree/master/Photos) folder and give its name by your github username.</br>
-6. 🎯Now add your profile details in [Contributors.md](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/tree/master/Contributors.md) file (**Serial No.**, **Name**, **GitHub Username**, **Photo** [Link to Your Picture in *Photo* Folder], **Pattern File Name**, **Screenshot** [Link to Your Pattern ScreenShot in *Pattern_ScreenShot* Folder], **Institution** and **Email Id**).</br>
-7. 🎯Done! You are ready to create your pull request.</br>
 
 💥💥💥 ```Some Have Been Done For You As An Example``` </br></br>
 --------
@@ -41,7 +31,7 @@
 ----
 ------
 <p align="center"><h3>🛑🛑🛑 ELIGIBILITY CRITERIA 🛑🛑🛑</h3></p>
- 
+
 *	```No Missing Details```
 *	```Different Pattern or Same Pattern in Different Language```
 *	[```Follow @aritraroy24```](https://github.com/aritraroy24/)
@@ -57,7 +47,7 @@
 🙅🏼‍♂️Hacktoberfest is open to everyone in our global community. Whether you’re new to development, a student, long-time contributor, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skills levels are encouraged to complete the challenge.🙅🏼‍♂️
 ```
 
-### 💻 Our repo is open to beginner contributors who want to participate and complete successful PR Request. 
+### 💻 Our repo is open to beginner contributors who want to participate and complete successful PR Request.
 
 ## Instructions: 🙅🏼 🙅🏼‍♂️
 ### 1. 👇🏻Register yourself for Hacktoberfest 2021
@@ -96,7 +86,7 @@
 ###### ⚡  Once you enter the git `checkout` command, you will receive the following output:`Switched to branch '<YOUR-USERNAME>' `
 ###### ⚡  At this point, you can now modify existing files or add new files to the project on your own branch.
 ###### ⚡  Make sure you have read the [CONTRIBUTING.md](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/blob/master/CONTRIBUTING.md) before you start contributing such that you make remarkable and easily acceptable PRs.
-###### ⚡  Make Changes Locally. 
+###### ⚡  Make Changes Locally.
 ###### ⚡  Once you have modified existing files or added new files to the project, you can add them to your local repository, which you can do with the git add command. Let’s add the -A flag to add all changes that we have made : `git add -A ` or ` git add . `
 ###### ⚡  Next, we’ll want to record the changes that we made to the repository with the git commit command.
 ###### ⚡  The commit message is an important aspect of your code contribution; It helps the other contributors fully understand the change you have made, why you made it, and how significant it is. Additionally, commit messages provide a historical record of the changes for the project at large, helping future contributors along the way. Thus, you must ensure that you write a meaningful commit message. If in a confusion, refer to the good contribution guidelines included in the `CONTRIBUTING.md `.
